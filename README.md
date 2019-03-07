@@ -1,4 +1,4 @@
-# restaurant-reviews
+# Restaurant Reviews with Machine Learning
 Given a dataset containing 1000 restaurant reviews, we use Natural Language Processing to seperate good and bad reviews. After creating the Bag of Words model, we classify the model with Naive Bayes.  
 Coded in both Python and R.
 
